@@ -1,0 +1,9 @@
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\bin\Debug\Stay Awake.exe.config
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay Awake.csprojResolveAssemblyReference.cache
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay_Awake.Form1.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay_Awake.Properties.Resources.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay Awake.csproj.GenerateResource.Cache
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\bin\Debug\Stay Awake.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\bin\Debug\Stay Awake.pdb
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay Awake.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\Stay Awake\Stay Awake\obj\Debug\Stay Awake.pdb
